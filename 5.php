@@ -1,3 +1,9 @@
+<!--
+
+5º Escreva um código que receba um valor inteiro entre 1 e 12, de acordo com a escolha, informe qual o mês correspondente. Caso o usuário digite um valor fora do intervalo, informar que o dado é inválido.
+
+-->
+
 <?php
 
 $valor = 7;

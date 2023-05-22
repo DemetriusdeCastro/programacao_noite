@@ -1,3 +1,9 @@
+<!--
+
+6º Escreva um código que receba um valor entre 1 e 26 e informe a respectiva letra do alfabeto. Caso o usuário informe um valor fora do intervalo, informar que o valor é inválido.
+
+-->
+
 <?php
 
 $valor = 26;
